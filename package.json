@@ -1,0 +1,14 @@
+{
+  "name": "techladies-backend-remikanji",
+  "version": "1.0.0",
+  "description": "techladies submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "remi kanji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
